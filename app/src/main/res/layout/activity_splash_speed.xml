@@ -24,7 +24,7 @@
         android:textSize="20sp"
         android:textColor="#000"
         android:layout_marginTop="30dp"
-        android:text="sadaf.farhood"
+        android:text="Developed By sadaf.farhood"
         android:gravity="end"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
